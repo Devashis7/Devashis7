@@ -20,6 +20,14 @@
 
 ## 🚀 Featured Projects  
 
+### ⚙️ [SkillKart](https://github.com/Devashis7/SkillKart)
+📍 **Live Demo:** [Click Here](https://skill-kart-topaz.vercel.app/)  
+An online skill-based learning and service platform.  
+**Features:** User authentication, course management, and responsive UI.
+
+---
+
+
 ### 🧠 [Innovative Learning Platform](https://github.com/Devashis7/Innovative-Learning-Platform)
 📍 **Live Demo:** [Click Here](https://innovative-learning-platform.vercel.app/)  
 A full-stack e-learning platform built using the MERN stack, designed for B.Tech CSE students.  
@@ -34,12 +42,9 @@ A marketplace for local artisans to sell handmade products online.
 
 ---
 
-### ⚙️ [SkillKart](https://github.com/Devashis7/SkillKart)
-📍 **Live Demo:** [Click Here](https://skill-kart-topaz.vercel.app/)  
-An online skill-based learning and service platform.  
-**Features:** User authentication, course management, and responsive UI.
 
----
+
+
 
 ## 📊 GitHub Stats  
 ![Devashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devashis7&show_icons=true&theme=radical)  
